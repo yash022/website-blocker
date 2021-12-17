@@ -2,6 +2,12 @@
 
 This is a simple python script that organizations can use in their office computers to block certain websites, for example, www.bing.com or www.facebook.com, during their working hours.
 
+to change the webiste you need to block , open the py file in any code editor , replace the webiste in this line 
+
+<img width="812" alt="image" src="https://user-images.githubusercontent.com/95688723/146500465-4668bf61-af1d-446c-b19c-504df23ee171.png">
+
+and save it as pyw file .
+
 first, you need to make some administration changes in the host file, which is located 
 
 for windows
