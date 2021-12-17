@@ -28,8 +28,43 @@ then in the groups or usernames box, select all applications packages
 
 
 
-
 click on write permission
+
+
+now you need to schedule this script 
+
+Scheduling in Windows: Scheduling of above script is little bit trick but I will guide you step by step-
+
+1.First of all change the extension of your script from “.py” to “.pyw”.
+2.Now open task scheduler. Task scheduler should look like this:
+
+![image](https://user-images.githubusercontent.com/95688723/146499388-d583dc13-2635-487a-9e00-926814d92d61.png)
+
+
+You may see website blocker already scheduled because I have already scheduled in my computer for my testing purpose. Follow further instruction of scheduling carefully in order to schedule website blocker in your computer.
+
+3.Click on “create task”. Fill the name of your choice and flag “Run with highest privilege”.
+
+![image](https://user-images.githubusercontent.com/95688723/146499466-c8a63918-2c90-408b-ab1e-e43db2516798.png)
+
+![image](https://user-images.githubusercontent.com/95688723/146499514-f60c0c34-6274-42a1-8fb6-a4ec459021cf.png)
+
+Now go to triggers, select “At startup” for begin the task.
+
+Go to Action bar and create a new action and give path of your script.
+
+
+
+Go to conditions bar and unflag the power section.
+
+
+
+Press ok and you can see the script scheduled.
+
+Finally restart your computer and see the magic.
+
+Note: You can also check instantly by clicking run button.
+
 
 
 
