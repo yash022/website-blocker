@@ -77,7 +77,5 @@ You may see website blocker already scheduled because I have already scheduled i
 
 Note: You can also check instantly by clicking run button.
 
-Note: You can also check instantly by clicking run button.
-
 
 
