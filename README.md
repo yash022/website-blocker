@@ -22,14 +22,11 @@ then in the groups or usernames box, select all applications packages
 
 <img width="266" alt="image" src="https://user-images.githubusercontent.com/95688723/146385875-9a0ee9e7-e0d8-4864-a337-16595598ca26.png">
 
+, click on edit, then in the permission for users box,  click on write permission
 
+<img width="264" alt="image" src="https://user-images.githubusercontent.com/95688723/146499962-240fe3d1-42da-408f-a168-22333978497e.png">
 
-, click on edit, then in the permission for users box, 
-
-
-
-click on write permission
-
+now click on ok
 
 now you need to schedule this script 
 
@@ -49,25 +46,38 @@ You may see website blocker already scheduled because I have already scheduled i
 
 ![image](https://user-images.githubusercontent.com/95688723/146499514-f60c0c34-6274-42a1-8fb6-a4ec459021cf.png)
 
-Now go to triggers, select “At startup” for begin the task.
+4. Now go to triggers, select “At startup” for begin the task.
 
-Go to Action bar and create a new action and give path of your script.
-
-
-
-Go to conditions bar and unflag the power section.
+![image](https://user-images.githubusercontent.com/95688723/146499683-52a8b59d-7aa8-4a40-91e6-7cd285ee2c67.png)
 
 
+5.Go to Action bar and create a new action and give path of your script.
 
-Press ok and you can see the script scheduled.
+![image](https://user-images.githubusercontent.com/95688723/146499704-33402297-d715-4f2b-84ed-bac4fded02e3.png)
 
-Finally restart your computer and see the magic.
+![image](https://user-images.githubusercontent.com/95688723/146499719-84a08c0e-c907-4952-817e-1449915a8ac6.png)
+
+
+6. Go to conditions bar and unflag the power section.
+
+![image](https://user-images.githubusercontent.com/95688723/146499742-39a6f312-b034-4b82-8b9a-7e4f12bbadc1.png)
+
+![image](https://user-images.githubusercontent.com/95688723/146499750-04654719-0062-489c-a62c-6d8263976e5b.png)
+
+
+7. Press ok and you can see the script scheduled.
+
+![image](https://user-images.githubusercontent.com/95688723/146499769-3a7324a7-5066-44a7-a80f-7cc60eaa9f10.png)
+
+
+8. Finally restart your computer and see the magic.
+
+![image](https://user-images.githubusercontent.com/95688723/146499810-0772d631-9092-4b3b-b3f5-395086699108.png)
+
 
 Note: You can also check instantly by clicking run button.
 
-
-
-
+Note: You can also check instantly by clicking run button.
 
 
 
